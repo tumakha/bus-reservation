@@ -1,0 +1,22 @@
+[
+  {
+    "name": "stop1",
+    "latitude": 51.513313,
+    "longitude": -0.086541
+  },
+  {
+    "name": "stop2",
+    "latitude": 51.509865,
+    "longitude": -0.118092
+  },
+  {
+    "name": "stop3",
+    "latitude": 51.513288,
+    "longitude": -0.088312
+  },
+  {
+    "name": "stop4",
+    "latitude": 51.517748,
+    "longitude": -0.086442
+  }
+]

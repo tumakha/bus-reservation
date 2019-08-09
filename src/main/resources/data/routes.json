@@ -1,0 +1,36 @@
+[
+  {
+    "name": "66",
+    "busStops": [
+      {
+        "name": "Bank Station",
+        "time": "08:00"
+      },
+      {
+        "name": "Bishopsgate",
+        "time": "08:25"
+      },
+      {
+        "name": "St Katharine Cree",
+        "time": "08:50"
+      }
+    ]
+  },
+  {
+    "name": "99",
+    "busStops": [
+      {
+        "name": "Stepney Green",
+        "time": "13:00"
+      },
+      {
+        "name": "St Katharine Cree",
+        "time": "13:20"
+      },
+      {
+        "name": "Bank Station",
+        "time": "13:40"
+      }
+    ]
+  }
+]

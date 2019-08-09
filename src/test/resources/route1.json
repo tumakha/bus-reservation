@@ -1,0 +1,33 @@
+{
+  "name": "route1",
+  "busStops": [
+    {
+      "id": "${json-unit.ignore}",
+      "name": "stop1",
+      "latitude": 51.513313,
+      "longitude": -0.086541,
+      "pickupTime": "08:00:00"
+    },
+    {
+      "id": "${json-unit.ignore}",
+      "name": "stop2",
+      "latitude": 51.509865,
+      "longitude": -0.118092,
+      "pickupTime": "08:15:00"
+    },
+    {
+      "id": "${json-unit.ignore}",
+      "name": "stop3",
+      "latitude": 51.513288,
+      "longitude": -0.088312,
+      "pickupTime": "08:25:00"
+    },
+    {
+      "id": "${json-unit.ignore}",
+      "name": "stop4",
+      "latitude": 51.517748,
+      "longitude": -0.086442,
+      "pickupTime": "08:45:00"
+    }
+  ]
+}

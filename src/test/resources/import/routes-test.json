@@ -1,0 +1,40 @@
+[
+  {
+    "name": "route1",
+    "busStops": [
+      {
+        "name": "stop1",
+        "time": "08:00"
+      },
+      {
+        "name": "stop2",
+        "time": "08:15"
+      },
+      {
+        "name": "stop3",
+        "time": "08:25"
+      },
+      {
+        "name": "stop4",
+        "time": "08:45"
+      }
+    ]
+  },
+  {
+    "name": "route2",
+    "busStops": [
+      {
+        "name": "stop4",
+        "time": "14:10"
+      },
+      {
+        "name": "stop2",
+        "time": "14:20"
+      },
+      {
+        "name": "stop1",
+        "time": "14:35"
+      }
+    ]
+  }
+]

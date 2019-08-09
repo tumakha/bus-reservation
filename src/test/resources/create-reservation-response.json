@@ -1,0 +1,5 @@
+{
+  "reservationId": "${json-unit.ignore}",
+  "busStop": "stop2",
+  "childName": "Olivia"
+}
